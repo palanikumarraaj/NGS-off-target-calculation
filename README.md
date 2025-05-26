@@ -9,6 +9,7 @@ The script use BAM sorted file along with the 4 column format of target BED file
 - Calculate target region, extended region and off-target region reads and bases
 - Provide top 10 chr based stats as additional data
 - The read length data is required to calculate extended panel info and provided in -r option
+- For a 40 to 45 M reads aligned BAM file - approx 30 to 40 Minutes it will take to calculate 
 
 ## Required packages and Installation
 
